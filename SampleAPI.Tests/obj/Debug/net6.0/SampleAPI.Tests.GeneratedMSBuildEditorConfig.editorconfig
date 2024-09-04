@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SampleAPI.Tests
-build_property.ProjectDir = /Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI.Tests/
+build_property.ProjectDir = /Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI.Tests/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

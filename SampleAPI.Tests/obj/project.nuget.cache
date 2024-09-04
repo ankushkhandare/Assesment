@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BKakAttCuZZ7lnVLTeZ5o69r+ITWecT568kXlntITmlQy/I1hSTPfcNVewaIacH0YjZyl4qTET+4O7O4DmXpWg==",
+  "dgSpecHash": "LFp34NDwuwemwCgM7oyhKCVY62QL6BOBnHZmRQjolko/npmZyKSMkKCEdBnISa890YH28kvOLsz4OwgJV0WsOQ==",
   "success": true,
-  "projectFilePath": "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI.Tests/SampleAPI.Tests.csproj",
+  "projectFilePath": "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI.Tests/SampleAPI.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/ankushkhandare/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/ankushkhandare/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",

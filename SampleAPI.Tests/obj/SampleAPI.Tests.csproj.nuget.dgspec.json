@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI.Tests/SampleAPI.Tests.csproj": {}
+    "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI.Tests/SampleAPI.Tests.csproj": {}
   },
   "projects": {
-    "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI.Tests/SampleAPI.Tests.csproj": {
+    "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI.Tests/SampleAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI.Tests/SampleAPI.Tests.csproj",
+        "projectUniqueName": "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI.Tests/SampleAPI.Tests.csproj",
         "projectName": "SampleAPI.Tests",
-        "projectPath": "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI.Tests/SampleAPI.Tests.csproj",
+        "projectPath": "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI.Tests/SampleAPI.Tests.csproj",
         "packagesPath": "/Users/ankushkhandare/.nuget/packages/",
-        "outputPath": "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI.Tests/obj/",
+        "outputPath": "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ankushkhandare/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI/SampleAPI.csproj": {
-                "projectPath": "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI/SampleAPI.csproj"
+              "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI/SampleAPI.csproj": {
+                "projectPath": "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI/SampleAPI.csproj"
               }
             }
           }
@@ -109,14 +109,14 @@
         }
       }
     },
-    "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI/SampleAPI.csproj": {
+    "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI/SampleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI/SampleAPI.csproj",
+        "projectUniqueName": "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI/SampleAPI.csproj",
         "projectName": "SampleAPI",
-        "projectPath": "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI/SampleAPI.csproj",
+        "projectPath": "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI/SampleAPI.csproj",
         "packagesPath": "/Users/ankushkhandare/.nuget/packages/",
-        "outputPath": "/Users/ankushkhandare/Study/Test/FirstAm/interview-projects-test-normal-challenge/SampleAPI/obj/",
+        "outputPath": "/Users/ankushkhandare/Study/Test/AssesmentTask/Assesment/SampleAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ankushkhandare/.nuget/NuGet/NuGet.Config"
