@@ -1,0 +1,32 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6957598f_002Da2ef_002D43ac_002Db525_002Dc7453ea376b0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateOrderCommandValidatorTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D36C6B8D-A4C7-4545-84EF-8794D58C5B7F::net6.0::SampleAPI.Tests.Validators.CreateOrderCommandValidatorTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D36C6B8D-A4C7-4545-84EF-8794D58C5B7F::net6.0::SampleAPI.Tests.Controllers.OrderControllerTests.CreateOrder_Should_Return_Created_When_OrderIsValid&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D36C6B8D-A4C7-4545-84EF-8794D58C5B7F::net6.0::SampleAPI.Tests.Controllers.OrderControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D36C6B8D-A4C7-4545-84EF-8794D58C5B7F::net6.0::SampleAPI.Tests.Application.Queries.GetRecentOrdersQueryHandlerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6d07333a_002D7e96_002D4914_002Db59c_002D2e6a7910ef72/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Handle_Should_Return_RecentOrders_When_OrdersExist" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D36C6B8D-A4C7-4545-84EF-8794D58C5B7F::net6.0::SampleAPI.Tests.Application.Queries.GetRecentOrdersQueryHandlerTests.Handle_Should_Return_RecentOrders_When_OrdersExist&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7581da9d_002D58ec_002D4a1c_002D8460_002D85eb9933b0d6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Handle_Should_Return_RecentOrders_When_OrdersExist #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D36C6B8D-A4C7-4545-84EF-8794D58C5B7F::net6.0::SampleAPI.Tests.Application.Queries.GetRecentOrdersQueryHandlerTests.Handle_Should_Return_RecentOrders_When_OrdersExist&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e16790d1_002Dfa9e_002D47f3_002D8477_002Df7a15c96dbd9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Handle_Should_Return_RecentOrders_When_OrdersExist #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::D36C6B8D-A4C7-4545-84EF-8794D58C5B7F::net6.0::SampleAPI.Tests.Application.Queries.GetRecentOrdersQueryHandlerTests.Handle_Should_Return_RecentOrders_When_OrdersExist&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::D36C6B8D-A4C7-4545-84EF-8794D58C5B7F::net6.0::SampleAPI.Tests.Application.Queries.GetRecentOrdersQueryHandlerTests.Handle_Should_Return_EmptyList_When_NoOrdersExist&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::D36C6B8D-A4C7-4545-84EF-8794D58C5B7F::net6.0::SampleAPI.Tests.Repositories.OrderRepositoryTests.GetRecentOrdersAsync_Should_Return_EmptyResponse_WhenNo_RecentOrders_Exist&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFolder&gt;D36C6B8D-A4C7-4545-84EF-8794D58C5B7F/d:Application&lt;/ProjectFolder&gt;
+    &lt;ProjectFolder&gt;D36C6B8D-A4C7-4545-84EF-8794D58C5B7F/d:Controllers&lt;/ProjectFolder&gt;
+    &lt;ProjectFolder&gt;D36C6B8D-A4C7-4545-84EF-8794D58C5B7F/d:Repositories&lt;/ProjectFolder&gt;
+    &lt;ProjectFolder&gt;D36C6B8D-A4C7-4545-84EF-8794D58C5B7F/d:Validators&lt;/ProjectFolder&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
